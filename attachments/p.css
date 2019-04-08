@@ -157,3 +157,15 @@ body {
 
 a {color: #1155CC;}
 
+.box{
+  margin-left: 5%;
+  margin-top: 2%;
+  padding-left: 2%;
+  font-size: 4vw;
+}
+
+.p1{
+  font-size: 3.0vw;
+  padding-left: 3%;
+
+}
